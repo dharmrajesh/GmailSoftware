@@ -1,3 +1,5 @@
 1.login page
 2.inbox
 3.compose
+4.send items
+5.draft
