@@ -3,3 +3,4 @@
 3.compose
 4.send items
 5.draft
+6.adding the documents like word,excel,notepad
